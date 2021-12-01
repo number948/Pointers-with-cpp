@@ -13,9 +13,10 @@ int main(){
 
     *apuntador = 'x';
 
-    //cout<<apuntador;
+    
+    cout<<apuntador;
     //cout<<*apuntador;
-    cout<<letra;
+    //cout<<letra;
     
 
 }
