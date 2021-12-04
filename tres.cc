@@ -1,8 +1,8 @@
 // hacer una función y pasarle por parámetro un puntero a una lista.
 
-// en e de poner 5 poner len(lista) para que recorra el largo de la lista sin importar si lo conocemos o
+// 
 
-// len(5), list.length(), 
+// 
 
 #include <iostream>
 #include<conio.h>
