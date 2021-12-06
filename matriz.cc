@@ -7,7 +7,7 @@
 using namespace std;
 
 
-
+// falya imprimir en forma de matriz, realizar mas tareitas con matrices
 
 int main(){
   
@@ -27,8 +27,10 @@ int main(){
 
     
     for(int i=0;i<filas;i++){
+        cout << endl;
         for(int j = 0; j<columnas;j++){
-            cout<<matrix[i][j];
+            cout<<matrix[i][j]<<' ';
+            
         }
     }
 
